@@ -41,6 +41,9 @@ body{
 #thankyou #summary h3 {
     font-size: 24px !important;
 }
+#thankyou #summary h5 {
+    font-size: 18px !important;
+}
 
 
 #thankyou #summary p {

@@ -31,7 +31,20 @@ body{
     z-index: 1000; /* Ensure it's above other elements if needed */
     position: relative; /* Adjust based on layout needs */
 	margin-bottom: 400px;
-	font-size: 50px;
+	font-size: 40px;
+}
+
+#thankyou #summary {
+    margin-top: 20px;
+}
+
+#thankyou #summary h3 {
+    font-size: 24px !important;
+}
+
+
+#thankyou #summary p {
+    font-size: 16px !important;
 }
 
 .flower{
